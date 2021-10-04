@@ -1,4 +1,4 @@
-#Wendrop BOT
+# Wendrop BOT
 un bot discord qui intéroge l'API wen-drop.app
 
 ## Build
